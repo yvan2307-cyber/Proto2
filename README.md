@@ -125,4 +125,4 @@ Ce second flux gère l'interaction directe avec le Raspberry Pi 5 et ses périph
 * **Étape 6** : Développement des Scénarios Avancés (Flow 2 : Macros de kits, monitoring LCD, Boss event).
 * **Étape 7** : Phase de Recette (Tests de charge, gestion des erreurs RCON) & Documentation.
 
-### 6.3 Pistes d'Évolution (Backlog)
+* Fin
